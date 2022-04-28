@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Sora', sans-serif;
+    overflow-x: hidden;
+
+}
+
+header {
+    background-color: #dadedf;
+    width: 100vw;
+    padding: 2%;
+}
+
+h2 {
+    padding-top: 20px;
+}
+
+article {
+    margin: 0;
+    padding: 0;
+    background-color: #dadedf;
+}
+
+.picture {
+    padding: 2% 0 0 2%;
+    background-color: white;
+}
+
+ul {
+    display: table;
+    text-align: left;
+}
+
+.container {
+    padding: 0 33% 20px 33%;
+    text-align: left;
+}
